@@ -1,2 +1,2 @@
 # josh-wadlington.github.io
-online portfolio for Josh Wadlington
+Online portfolio of web maps created by Josh Wadlington
